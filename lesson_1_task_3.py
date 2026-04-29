@@ -1,4 +1,4 @@
 
-first_name = "Svetlana"
-last_name = "Bazhenova"
-print("{} {}" . format(first_name , last_name))
+first_name = input("Svetlana")
+last_name = input("Bazhenova")
+print(first_name , last_name)
